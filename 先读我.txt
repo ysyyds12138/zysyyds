@@ -1,0 +1,29 @@
+﻿青禾仓储管理系统 — 完整项目文件夹
+
+一、从哪里开始
+1. 先阅读 README.md：安装步骤、演示账号、功能和配置说明。
+2. 电脑安装 Python 3.11 或更新版本。
+3. Windows：双击 start.bat。
+4. macOS / Linux：在此文件夹打开终端，执行 sh start.sh。
+5. 浏览器打开启动终端显示的地址。
+
+二、文件位置
+app.py                  项目启动入口
+warehouse/              Python后端、数据库建表和演示数据脚本
+templates/              HTML页面入口
+static/                 JavaScript、CSS和本地商品图片
+requirements*.txt       运行和测试依赖
+start.bat / start.sh     Windows与macOS/Linux启动脚本
+tests/                  后端功能与并发测试
+scripts/                浏览器验证和源码打包脚本
+docs/课程设计说明.md     需求分析、数据库设计、组员分工与答辩演示流程
+docs/screenshots/       登录页、工作台、各功能页和手机端截图
+docs/验证记录/          此前的浏览器验证日志
+文件清单.txt             交付文件索引
+
+三、数据与使用说明
+首次启动自动生成数据库和演示数据，不需要手动安装数据库。
+运行后生成的 instance/ 保存数据库、照片和会话密钥，请妥善备份。
+本文件夹不含虚拟环境、缓存、Git内部文件或会话密钥。
+图片是页面效果截图；交互功能需启动项目后在浏览器操作。
+启动时首次安装依赖需要网络。

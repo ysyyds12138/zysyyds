@@ -1,0 +1,65 @@
+127.0.0.1 - - [26/Oct/2026 12:07:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:47] "GET /static/styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:47] "GET /static/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:47] "GET /api/session HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:47] "GET /static/favicon.svg HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:47] "GET /static/images/oat.svg HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:47] "GET /static/images/tea.svg HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:47] "GET /static/images/notebook.svg HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:47] "POST /api/login HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:47] "GET /api/data HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:47] "GET /static/images/cracker.svg HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:47] "GET /static/images/yogurt.svg HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:47] "GET /static/images/nuts.svg HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:47] "GET /static/images/pen.svg HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:47] "GET /static/images/tissue.svg HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:48] "GET /static/images/shelf.svg HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:48] "[36mGET /static/favicon.svg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Oct/2026 12:07:49] "[36mGET /static/favicon.svg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Oct/2026 12:07:49] "[36mGET /static/favicon.svg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Oct/2026 12:07:49] "[36mGET /static/favicon.svg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Oct/2026 12:07:49] "[36mGET /static/favicon.svg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Oct/2026 12:07:49] "[36mGET /static/favicon.svg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Oct/2026 12:07:49] "[36mGET /static/favicon.svg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Oct/2026 12:07:49] "[35m[1mPOST /api/uploads HTTP/1.1[0m" 201 -
+127.0.0.1 - - [26/Oct/2026 12:07:49] "GET /uploads/4a5958468ef04672b72de2506e9accea.webp HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:49] "POST /api/products HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:49] "GET /api/data HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:49] "[36mGET /static/favicon.svg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Oct/2026 12:07:49] "POST /api/locations HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:50] "GET /api/data HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:50] "GET /api/data HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:50] "[36mGET /static/favicon.svg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Oct/2026 12:07:50] "GET /api/products/lookup?sku=BROWSER_001 HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:50] "[35m[1mPOST /api/movements HTTP/1.1[0m" 201 -
+127.0.0.1 - - [26/Oct/2026 12:07:50] "GET /api/data HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:50] "GET /api/products/lookup?sku=BROWSER_001 HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:50] "[35m[1mPOST /api/movements HTTP/1.1[0m" 201 -
+127.0.0.1 - - [26/Oct/2026 12:07:50] "GET /api/data HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:50] "GET /api/data HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:50] "GET /api/products/lookup?sku=BROWSER_001 HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:50] "[31m[1mPOST /api/movements HTTP/1.1[0m" 400 -
+127.0.0.1 - - [26/Oct/2026 12:07:50] "GET /api/export/inventory.csv HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:50] "[36mGET /static/favicon.svg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Oct/2026 12:07:51] "POST /api/logout HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:51] "POST /api/login HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:51] "GET /api/data HTTP/1.1" 200 -
+127.0.0.1 - - [26/Oct/2026 12:07:51] "[36mGET /static/favicon.svg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Oct/2026 12:07:51] "[36mGET /static/favicon.svg HTTP/1.1[0m" 304 -
+{
+  "result": "passed",
+  "browser_errors": [],
+  "checks": [
+    "7 desktop pages",
+    "carousel and multi-photo viewer",
+    "create product and upload photo",
+    "create shelf",
+    "barcode lookup",
+    "split inbound across locations",
+    "outbound and oversell rejection",
+    "CSV download",
+    "product search",
+    "operator permissions",
+    "390px mobile layout and form"
+  ]
+}
